@@ -10,11 +10,11 @@ Lista curada de medios de comunicación digitales chilenos, organizados por regi
 
 **Descentralizar la información.**
 
-Chile tiene una concentración mediática brutal: la mayoría de los medios con mayor alcance están radicados en Santiago y cubren el país desde una sola perspectiva. Este proyecto nace para visibilizar los medios que informan desde los territorios, con una mirada local y propia.
+Chile tiene una concentración mediática cr*minal: la mayoría de los medios con mayor alcance están radicados en Santiago y cubren el país desde una sola perspectiva. Este proyecto nace para visibilizar los medios que informan desde los territorios, con una mirada local y propia.
 
 Por eso este listado **no incluye**:
 - Medios nacionales (El Mercurio, La Tercera, TVN, etc.)
-- Medios digitales de alcance nacional (CIPER, El Mostrador, etc.)
+- Medios digitales de alcance nacional (Desconcierto, El Mostrador, etc.)
 - Medios comunales de la Región Metropolitana — que además prácticamente no existen, lo que dice mucho del centralismo
 
 Lo que sí incluye: medios regionales, provinciales y comunales de las 15 regiones fuera de la RM, priorizando los más pequeños, locales e independientes.
@@ -90,21 +90,6 @@ Diario El Longino,Tarapacá,https://diariolongino.cl,Regional
 | Los Lagos | 10 |
 | Aysén | 3 |
 | Magallanes | 6 |
-
----
-
-## 🔧 Verificar feeds RSS
-
-Si quieres verificar qué medios tienen RSS activo y generar un OPML actualizado, usa el script incluido:
-
-```bash
-pip install requests
-python verificar_medios_rss.py
-```
-
-Genera:
-- `medios_rss.csv` — estado de cada feed
-- `medios_activos.opml` — solo los medios con RSS funcional
 
 ---
 
