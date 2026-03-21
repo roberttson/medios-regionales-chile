@@ -65,6 +65,7 @@
       <outline text="Noticias Biobío" title="Noticias Biobío" type="rss" xmlUrl="https://noticiasbiobio.cl/feed" htmlUrl="https://noticiasbiobio.cl"/>
       <outline text="Resumen Biobío" title="Resumen Biobío" type="rss" xmlUrl="https://resumen.cl/feed" htmlUrl="https://resumen.cl"/>
       <outline text="Tomé al Día" title="Tomé al Día" type="rss" xmlUrl="http://www.tomealdia.com/feed" htmlUrl="http://www.tomealdia.com"/>
+      <outline text="Nacimentano" title="Nacimentano" type="rss" xmlUrl="https://nacimentano.cl/feed" htmlUrl="https://nacimentano.cl"/>
     </outline>
     <outline text="Coquimbo" title="Coquimbo">
       <outline text="Diario El Día" title="Diario El Día" type="rss" xmlUrl="https://www.diarioeldia.cl/feed" htmlUrl="https://www.diarioeldia.cl"/>
